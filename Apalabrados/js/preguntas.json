@@ -1,0 +1,43 @@
+[
+	{
+		"pregunta" : ["Colombia se ubica en el extremo ... de América del Sur"],
+		"opciones" : ["nor-central","nor-oriental","nor-occidental","centro-meridional"],
+		"correcta" : 3
+	},
+
+	{
+		"pregunta" : "En Colombia, el gobierno de Juan Manuel Santos viene negociando la paz con los guerrilleros",
+		"opciones" : ["del FLN","del M19","del ELN","de las FARC"],
+		"correcta" : 4
+	},
+
+	{
+		"pregunta" : "Uno de los principales puertos de Colombia es: ",
+		"opciones" : ["Barranquilla","Cali","Bogota","Medellin"],
+		"correcta" : 1
+	},	
+
+	{
+		"pregunta" : "Cuales de las siguientes ciudades tiene sistema metro de transporte en Colombia",
+		"opciones" : ["Barranquilla","Medellin","Bogota","Cali"],
+		"correcta" : 2
+	},
+	
+	{
+		"pregunta" : "Cual es el único mamífero capaz de volar",
+		"opciones" : ["Chiguiro","Oso de anteojos","Murcielago","Armadillo"],
+		"correcta" : 3
+	},
+
+	{
+		"pregunta" : "En Colombia se les llama -Departamentos-, en Venezuela se les llama",
+		"opciones" : ["Comunas","Municipios","Estados","Distritos"],
+		"correcta" : 3
+	},
+
+	{
+		"pregunta" : "A donde se fue Mambru",
+		"opciones" : ["Al hospital","A su patria","a USA","A la guerra"],
+		"correcta" : 4
+	}
+]
