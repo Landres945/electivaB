@@ -1,0 +1,15 @@
+{
+  "short_name": "Apalabrados",
+  "name": "Andres Lopez",
+  "icons": 
+  [
+      {
+      "src": "img/pregunta.png",
+      "sizes": "96x96",
+      "type": "image/png"
+      }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
